@@ -1,0 +1,3 @@
+﻿  Laivu_Sudejimas.cpp
+C:\Dev\Bandymas_2\Bandymas\Laivu_Sudejimas.cpp(23,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bandymas.vcxproj -> C:\Dev\Bandymas_2\Debug\Bandymas.exe
